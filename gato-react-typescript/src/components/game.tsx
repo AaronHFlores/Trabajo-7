@@ -21,7 +21,7 @@ const InitialState = {
   celdas: ["", "", "", "", "", "", "", "", ""],
   jugadores: [
     { name: "Aaron", identifier: "X", age: 19 },
-    { name: "Juanito", identifier: "O" age: 99}
+    { name: "Juanito", identifier: "O" ,age: 99}
   ],
   turno: { name: "Aaron", identifier: "X", age: 19 },
   gameFinish: false,
